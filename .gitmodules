@@ -1,0 +1,3 @@
+[submodule "schemas/openid-vc-typescript-json-schema"]
+	path = schemas/openid-vc-typescript-json-schema
+	url = https://github.com/ForkbombEu/openid-vc-typescript-json-schema
