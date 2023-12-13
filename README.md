@@ -9,4 +9,4 @@ The work is far from complete, but it handles the core functionality.
 
 Some useful JSON schemas:
 
-- Validator for Credential Issuer Metadata
+- `schemas/credential-issuer-metadata.schema.json`: validates Credential Issuer Metadata json
